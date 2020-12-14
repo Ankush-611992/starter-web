@@ -8,7 +8,11 @@ This is example to show different parts of the git repo and various commands usi
 
 ## Purpose
 
+As stated above, main purpose is to provide simple examples for git training.
+
 ## Deployment
+
+This is for demo deployment.
 
 ## How To Contribute
 
